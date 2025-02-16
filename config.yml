@@ -1,27 +1,27 @@
-baseURL: https://githubuser.github.io
+baseURL: https://lucreziamosconi.github.io
 languageCode: en-us
-title: Linus Torvalds
+title: Lucrezia Mosconi
 theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: Sup bruh 😎
+    Title: trial 😎
     Content: This is something shows in your homepage.
 
   socialIcons: # optional
     - name: "github"
-      url: "https://github.com/XXX"
+      url: "https://github.com/lucrezia-mosconi"
     # - name: "youtube"
     #   url: "https://www.youtube.com/channel/XXX"
-    - name: "twitter"
-      url: "https://twitter.com/XXX"
+    # name: "twitter"
+    # url: "https://twitter.com/XXX"
     # - name: "kofi"
     #   url: "https://buymeacoffee.com/XXX"
     # - name: "rss"
     #   url: "https://XXX.github.io/index.xml"
   ShowReadingTime: true
-  author: "Linus Torvalds"
-  contact: "LinusT@example.com"
+  author: "Lucrezia Mosconi"
+  contact: "lucreziamosconi@proton.me"
   feedlinks: true
   mobileMenu: true
 
